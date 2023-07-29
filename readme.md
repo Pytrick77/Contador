@@ -4,4 +4,4 @@ Aprendi um pouco de JavaScrip nesse projeto. Uma linguagem que ainda tenho pouco
 
 **Vídeo aula do projeto:**
 
-(Como fazer um CONTADOR com HTML, CSS e JavaScript)[https://www.youtube.com/watch?v=n-ujf4-rk3g&ab_channel=LarissaKich]
+[Como fazer um CONTADOR com HTML, CSS e JavaScript](https://www.youtube.com/watch?v=n-ujf4-rk3g&ab_channel=LarissaKich)
